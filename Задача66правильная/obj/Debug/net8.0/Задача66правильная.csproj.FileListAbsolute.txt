@@ -1,0 +1,15 @@
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\bin\Debug\net8.0\Задача66правильная.exe
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\bin\Debug\net8.0\Задача66правильная.deps.json
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\bin\Debug\net8.0\Задача66правильная.runtimeconfig.json
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\bin\Debug\net8.0\Задача66правильная.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\bin\Debug\net8.0\Задача66правильная.pdb
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.csproj.AssemblyReference.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.AssemblyInfoInputs.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.AssemblyInfo.cs
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.csproj.CoreCompileInputs.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\refint\Задача66правильная.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.pdb
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\Задача66правильная.genruntimeconfig.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk09\Задача66правильная\obj\Debug\net8.0\ref\Задача66правильная.dll
